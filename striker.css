@@ -1,3 +1,23 @@
-#main {
-background: #edf3ff
+.main {
+background: white;
+}
+.a1{
+  background: #1c9949;
+  width: 730px;
+  height: 100px;
+  padding: 10px;
+}
+.a2{
+  background: #1c6149;
+  width: 730px;
+  height: 100px;
+  padding: 10px;
+}
+.header{
+  height: 100px;
+  width:750px;
+}
+.img{
+  height:auto;
+  width:100px;
 }
